@@ -1,62 +1,41 @@
-# 👋 Привет, я Махмуд
+# ⚡ Hey, I'm kLot
 
-🎓 Студент, который балансирует между учёбой, проектами и верой в стипендию ✨
-💻 Кодю на **Java, React, Next.js, NestJS, PostgreSQL**
-☕ Могу жить на кофе и дедлайнах
-
----
-
-## 🚀 Мои проекты
-
-* 🌍 **LangLift** — лендинг для платформы по изучению языков
-* 🖥 **Система управления компьютерным клубом** (NestJS + PostgreSQL)
-* 📚 Учебные проекты по **Java** и **дискретной математике**
+```zsh
+> Student & Fullstack Developer in progress
+> Exploring the world of code, coffee, and deadlines...
+```
 
 ---
 
-## 📊 Статистика
+## 🚀 Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kLot2005\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kLot2005\&layout=compact\&theme=tokyonight)
-
----
-
-## 🛠 Технологии
-
-![Java](https://img.shields.io/badge/Code-Java-orange)
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-black)
-![NestJS](https://img.shields.io/badge/Backend-NestJS-red)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+* 🌐 **LangLift** — landing page for a language learning platform
+* 🖥 **Computer Club Management System** — backend with NestJS + PostgreSQL
+* 📘 Academic projects in **Java** & **Discrete Mathematics**
 
 ---
 
-## ⚡ Немного обо мне
+## 🛠 Tech Arsenal
 
-* 🤔 Думаю над философией свободы воли
-* 📚 Учусь, чтобы потом учить других
-* 🤖 Верю, что хороший код может быть красивым, как поэзия
-* 😅 Иногда баги превращаю в фичи
-
----
-
-## 🐱 Декоративные приколы
-
-### 🔹 Бегущая строка
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F700&center=true&vCenter=true&width=500&lines=Привет!+Я+Махмуд+👋;Люблю+кодить+и+учиться+🚀;Верю+в+светлое+будущее+со+стипендией+✨" alt="Typing SVG" />
-</p>
-
-### 🔹 Котик с ноутбуком
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
-</p>
+![Java](https://img.shields.io/badge/Code-Java-orange?style=for-the-badge\&logo=openjdk)
+![React](https://img.shields.io/badge/Frontend-React-61DBFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![NestJS](https://img.shields.io/badge/Backend-NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
-## 🔗 Контакты
+## 📊 System Status
 
-📧 Email: *напиши сюда свой*
-🐙 GitHub: [kLot2005](https://github.com/kLot2005)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kLot2005\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kLot2005\&layout=compact\&theme=radical)
+
+---
+
+## ⚡ About Me
+
+* 🧑‍💻 Learning **Java, React, Next.js, NestJS, PostgreSQL**
+* 🚀 Passionate about fullstack development
+* 🎯 Always building, testing, and improving
+
+---
