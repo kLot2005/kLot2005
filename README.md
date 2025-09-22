@@ -4,15 +4,6 @@
 > Student & Fullstack Developer in progress
 > Exploring the world of code, coffee, and deadlines...
 ```
-
----
-
-## 🚀 Projects
-
-* 🌐 **LangLift** — landing page for a language learning platform
-* 🖥 **Computer Club Management System** — backend with NestJS + PostgreSQL
-* 📘 Academic projects in **Java** & **Discrete Mathematics**
-
 ---
 
 ## 🛠 Tech Arsenal
