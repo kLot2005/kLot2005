@@ -16,13 +16,6 @@
 
 ---
 
-## 📊 System Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kLot2005\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kLot2005\&layout=compact\&theme=radical)
-
----
-
 ## ⚡ About Me
 
 * 🧑‍💻 Learning **Java, React, Next.js, NestJS, PostgreSQL**
