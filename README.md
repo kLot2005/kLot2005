@@ -26,7 +26,7 @@
 
 ---
 
-## 💡 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -57,18 +57,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kLot2005&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kLot2005&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ Если вам нравятся мои проекты, не забудьте звезду!
@@ -80,13 +68,6 @@
 *Last updated: June 2026 | Based in Kazakhstan 🇰🇿*
 
 </div>
-
----
-
-## 📞 Get In Touch
-
-- **GitHub**: [@kLot2005](https://github.com/kLot2005)
-- **Projects**: [View all repos](https://github.com/kLot2005?tab=repositories)
 
 ---
 
