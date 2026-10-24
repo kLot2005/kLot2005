@@ -2,6 +2,8 @@
   <img src="./assets/kirito-banner.png" width="100%" alt="Kirito looking toward Aincrad, in monochrome pixel-textured artwork" />
 </p>
 
+<p align="center"><samp>LINK START</samp></p>
+
 <h1 align="center">Hi, I'm Bekarys</h1>
 
 <p align="center">
@@ -9,8 +11,8 @@
 </p>
 
 <p align="center">
-  I build web apps, backend services, and API integrations.<br />
-  Mostly TypeScript. Always learning.
+  I build web apps with TypeScript, NestJS, and Next.js.<br />
+  Focused on backend architecture, API integrations, and real-time features.
 </p>
 
 <br />
@@ -25,12 +27,12 @@
 <h3 align="center">Tech stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&amp;logo=typescript&amp;logoColor=C9D1D9" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&amp;logo=nodedotjs&amp;logoColor=C9D1D9" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-161B22?style=flat-square&amp;logo=nestjs&amp;logoColor=C9D1D9" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&amp;logo=nextdotjs&amp;logoColor=C9D1D9" alt="Next.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&amp;logo=postgresql&amp;logoColor=C9D1D9" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&amp;logo=docker&amp;logoColor=C9D1D9" alt="Docker" />
+  <img src="./assets/icons/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript" /> &nbsp;
+  <img src="./assets/icons/nodedotjs.svg" width="44" height="44" alt="Node.js" title="Node.js" /> &nbsp;
+  <img src="./assets/icons/nestjs.svg" width="44" height="44" alt="NestJS" title="NestJS" /> &nbsp;
+  <img src="./assets/icons/nextdotjs.svg" width="44" height="44" alt="Next.js" title="Next.js" /> &nbsp;
+  <img src="./assets/icons/postgresql.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
+  <img src="./assets/icons/docker.svg" width="44" height="44" alt="Docker" title="Docker" />
 </p>
 
 <p align="center">
